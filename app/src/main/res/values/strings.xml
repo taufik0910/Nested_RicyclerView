@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nested RicyclerView</string>
+    <string name="tv_title">Title</string>
+</resources>
